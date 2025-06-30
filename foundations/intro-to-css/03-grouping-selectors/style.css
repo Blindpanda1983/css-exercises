@@ -1,7 +1,7 @@
 .needy,
-.pickme{font-family:helvetica, "Times New Roman", sans-serif}
+.pickme{font-family:helvetica, "Times New Roman", sans-serif; font-size: 28}
 
 
-.pickme {background-color:black color:white}
+.pickme {background-color:black; color:white}
 
 .needy {background-color:yellow}
